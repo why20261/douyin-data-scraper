@@ -11,6 +11,10 @@ description: >
   触发词：抖音搜索、抖音热榜、抖音评论、抖音博主、抖音竞品分析、短视频选题、抖音舆情、抖音数据分析、douyin search、douyin analytics。
 license: MIT
 version: "1.4.0"
+display_name: 科研福音-抖音数据抓取神器
+display_name_en: Research Bible - Douyin Data Scraper
+description_zh: 当用户需要做抖音内容研究、抖音选题、热点观察、竞品内容对比、趋势判断或素材整理时使用。面向内容运营、品牌调研和创作者。支持四大能力，(1) 关键词搜索视频/图文，可按点赞数、发布时间、时长、内容类型筛选排序；(2) 实时热榜查询，获取抖音热搜词条与热度数据；(3) 博主作品抓取，按主页链接或 sec_uid 获取公开作品列表；(4) 视频评论分析，按视频链接或 aweme_id 获取评论内容与互动数据。Use when，用户需要搜抖音视频、查抖音热榜/热搜、抓取博主作品列表、分析视频评论区、做短视频选题/竞品分析/舆情监控/热点追踪/爆款挖掘/抖音运营数据分析。
+description_en: Use when users need to conduct Douyin content research, topic ideation, trend monitoring, competitor content comparison, trend assessment or material collation. Target users include content operators, brand researchers and creators.Four core capabilities are supported (1) Search for videos/image-text posts by keywords, with filtering and sorting by likes, publish time, duration and content type;(2) Real-time hot list query to retrieve trending search terms and popularity metrics on Douyin;(3) Creator works scraping, fetch public work lists via profile link or sec_uid;(4) Video comment analysis, pull comment content and engagement data using video link or aweme_id.Use when, Users need to search Douyin videos, check the Douyin hot list/trending searches, scrape creator work lists, analyze video comment sections, conduct short-video topic research / competitor analysis / public opinion monitoring / trend tracking / hit content discovery / Douyin operation data analysis.
 metadata:
   display-name: 抖音搜索·作品·评论·热榜
   openclaw:
